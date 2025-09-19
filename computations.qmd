@@ -1,11 +1,14 @@
 ---
 title: "Quarto Computations"
-link: https://github.com/allydato/lab0
-format: html
+format:
+  html:
+    embed-resources: true
 echo: false
 fig-height: 3.5
 fig-width: 6
 ---
+
+GitHub link: [https://github.com/allydato/lab0](https://github.com/allydato/lab0)
 
 This dataset contains a subset of the fuel economy data from the EPA.
 
